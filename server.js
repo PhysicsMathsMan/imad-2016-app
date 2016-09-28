@@ -16,12 +16,12 @@ app.get('/article-one', function(req, res){
 
 
 app.get('/article-two', function(req, res){
-    res.send('Aritcel one will be severed here.')
+    res.send('Aritcle two will be severed here.')
 });
 
 
 app.get('/article-three', function(req, res){
-    res.send('Aritcel one will be severed here.')
+    res.send('Aritcle three will be severed here.')
 });
 
 
