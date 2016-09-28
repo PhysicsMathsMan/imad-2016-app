@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
 
 
 app.get('/article-one', function(req, res){
-    res.send('Aritcel one will be severed here.')
+    res.send('Aritcle one will be severed here.')
 });
 
 
